@@ -1,2 +1,2 @@
-# Web-Game-Project
+# Game-Project
  Tic-Tac-Toe Game
